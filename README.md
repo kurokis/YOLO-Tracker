@@ -1,8 +1,17 @@
 # keras-yolo3
 
+[//]: # (Image References)
+[demo]: ./readme_images/out.jpg "Demo"
+
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ## Introduction
+
+Object tracker using YOLOv3.
+
+![alt text][demo]
+
+Credits to [qqwweee](https://github.com/qqwweee) for keras implementaion of YOLOv3.
 
 A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
 

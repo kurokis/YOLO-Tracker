@@ -1,3 +1,4 @@
+
 *.jpg
 *.png
 *.weights
@@ -106,3 +107,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+!readme_images/*.jpg
